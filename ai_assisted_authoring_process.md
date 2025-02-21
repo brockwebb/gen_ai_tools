@@ -21,7 +21,7 @@
   - **Critical Evaluation:** Remember the GIGO (garbage in, garbage out) principle. AI can provide structure and ideas, but without your judgment and corrections, it may lead to flawed output.
   - **Maintaining Your Voice:** In a landscape of heavy AI use, the authentic human touch—even if imperfect—can stand out. Embrace iterative refinement and use human review to keep your unique perspective intact.
 
-mindmap
+```mindmap
   root((AI-Assisted Authoring Process))
     A[1. Define Audience & Purpose]
       A1[Identify who you’re writing for and why]
@@ -42,3 +42,4 @@ mindmap
     F[6. Finalize & Disclose AI Use]
       F1[Polish final content to reflect your unique voice]
       F2[Disclose AI involvement appropriately]
+```
