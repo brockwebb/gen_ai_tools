@@ -23,46 +23,20 @@
 
 
 # Flowchart 
-```mermaid
-flowchart TD
-    A[1. Define Audience & Purpose]
-    A1[Identify audience & purpose]
-    A2[Establish tone, style & context]
-    A --> A1
-    A --> A2
-
-    B[2. Set AI Guidelines & Personality Scripts]
-    B1[Create clear instructions for AI agents]
-    B2[Define boundaries for AI assistance]
-    B --> B1
-    B --> B2
-
-    C[3. Research & Organize]
-    C1["Use multiple research tools (Google, Perplexity)"]
-    C2["Establish a flexible repository (folders, NotebookLLM, Obsidian)"]
-    C --> C1
-    C --> C2
-
-    D[4. Draft & Iterate]
-    D1[Start with an outline & bullet points]
-    D2["Initial draft (80% AI / 20% Human)"]
-    D3["Iterate to final version (20% AI / 80% Human)"]
-    D --> D1
-    D --> D2
-    D --> D3
-
-    E[5. Feedback & Human Oversight]
-    E1["Incorporate AI feedback tools (detectors, summarizers)"]
-    E2[Integrate trusted peer review]
-    E --> E1
-    E --> E2
-
-    F[6. Finalize & Disclose AI Use]
-    F1[Polish final content to reflect your voice]
-    F2["Disclose AI involvement as appropriate"]
-    F --> F1
-    F --> F2
-
-```
+| Phase | Primary Tasks | Implementation Details |
+|-------|---------------|----------------------|
+| **1. Define Audience & Purpose** | • Identify who you're writing for and why | • Consider audience needs and expertise level<br>• Define clear communication goals |
+| | • Establish context for tone & style | • Align content with audience expectations<br>• Set appropriate formality level |
+| **2. Set AI Guidelines & Personality Scripts** | • Create specific AI agent instructions | • Define role and expertise level<br>• Set interaction parameters |
+| | • Establish AI contribution boundaries | • Ensure AI complements your work<br>• Maintain authentic voice |
+| **3. Research & Organize** | • Leverage multiple research tools | • Combine Google & Perplexity AI<br>• Cross-reference information |
+| | • Create flexible content repository | • Organize in NotebookLLM/Obsidian<br>• Maintain searchable structure |
+| **4. Draft & Iterate** | • Create structured outline | • Develop key points<br>• Plan content flow |
+| | • Initial draft (80% AI/20% human) | • Focus on getting ideas down<br>• Maintain consistent structure |
+| | • Refine to final (20% AI/80% human) | • Enhance personal voice<br>• Deep editing & restructuring |
+| **5. Feedback & Human Oversight** | • Use AI detection tools | • Apply content summarizers<br>• Check for consistency |
+| | • Incorporate peer review | • Evaluate coherence & bias<br>• Verify accuracy |
+| **6. Finalize & Disclose AI Use** | • Polish for personal voice | • Apply critical judgment<br>• Ensure natural flow |
+| | • Evaluate disclosure needs | • Consider content risk<br>• Match audience expectations |
 
 
