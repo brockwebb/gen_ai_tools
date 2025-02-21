@@ -21,25 +21,44 @@
   - **Critical Evaluation:** Remember the GIGO (garbage in, garbage out) principle. AI can provide structure and ideas, but without your judgment and corrections, it may lead to flawed output.
   - **Maintaining Your Voice:** In a landscape of heavy AI use, the authentic human touch—even if imperfect—can stand out. Embrace iterative refinement and use human review to keep your unique perspective intact.
 
-```mindmap
-  root((AI-Assisted Authoring Process))
+
+# Flowchart 
+flowchart TD
     A[1. Define Audience & Purpose]
-      A1[Identify who you’re writing for and why]
-      A2[Establish context to guide tone, style, and content]
+    A1[Identify audience & purpose]
+    A2[Establish tone, style & context]
+    A --> A1
+    A --> A2
+
     B[2. Set AI Guidelines & Personality Scripts]
-      B1[Create clear instructions for each AI "agent"]
-      B2[Define boundaries to ensure AI complements your process]
+    B1[Create clear instructions for AI agents]
+    B2[Define boundaries for AI assistance]
+    B --> B1
+    B --> B2
+
     C[3. Research & Organize]
-      C1[Use multiple research tools (Google, Perplexity, etc.)]
-      C2[Establish a flexible repository (folders, NotebookLLM, Obsidian)]
+    C1[Use multiple research tools (Google, Perplexity)]
+    C2[Establish a flexible repository (folders, NotebookLLM, Obsidian)]
+    C --> C1
+    C --> C2
+
     D[4. Draft & Iterate]
-      D1[Begin with an outline and bullet points]
-      D2[Start with an initial draft (80% AI / 20% human)]
-      D3[Refine iteratively toward final version (20% AI / 80% human)]
+    D1[Start with an outline & bullet points]
+    D2[Initial draft (80% AI / 20% Human)]
+    D3[Iterate to final version (20% AI / 80% Human)]
+    D --> D1
+    D --> D2
+    D --> D3
+
     E[5. Feedback & Human Oversight]
-      E1[Incorporate multiple feedback tools (AI detectors, summarizers, peer review)]
-      E2[Evaluate for coherence, bias, and accuracy]
+    E1[Incorporate AI feedback tools (detectors, summarizers)]
+    E2[Integrate trusted peer review]
+    E --> E1
+    E --> E2
+
     F[6. Finalize & Disclose AI Use]
-      F1[Polish final content to reflect your unique voice]
-      F2[Disclose AI involvement appropriately]
-```
+    F1[Polish final content to reflect your voice]
+    F2[Disclose AI involvement as appropriate]
+    F --> F1
+    F --> F2
+
