@@ -23,6 +23,7 @@
 
 
 # Flowchart 
+```mermaid
 flowchart TD
     A[1. Define Audience & Purpose]
     A1[Identify audience & purpose]
@@ -61,4 +62,6 @@ flowchart TD
     F2[Disclose AI involvement as appropriate]
     F --> F1
     F --> F2
+```
+
 
