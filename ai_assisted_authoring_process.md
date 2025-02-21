@@ -38,30 +38,31 @@ flowchart TD
     B --> B2
 
     C[3. Research & Organize]
-    C1[Use multiple research tools (Google, Perplexity)]
-    C2[Establish a flexible repository (folders, NotebookLLM, Obsidian)]
+    C1["Use multiple research tools (Google, Perplexity)"]
+    C2["Establish a flexible repository (folders, NotebookLLM, Obsidian)"]
     C --> C1
     C --> C2
 
     D[4. Draft & Iterate]
     D1[Start with an outline & bullet points]
-    D2[Initial draft (80% AI / 20% Human)]
-    D3[Iterate to final version (20% AI / 80% Human)]
+    D2["Initial draft (80% AI / 20% Human)"]
+    D3["Iterate to final version (20% AI / 80% Human)"]
     D --> D1
     D --> D2
     D --> D3
 
     E[5. Feedback & Human Oversight]
-    E1[Incorporate AI feedback tools (detectors, summarizers)]
+    E1["Incorporate AI feedback tools (detectors, summarizers)"]
     E2[Integrate trusted peer review]
     E --> E1
     E --> E2
 
     F[6. Finalize & Disclose AI Use]
     F1[Polish final content to reflect your voice]
-    F2[Disclose AI involvement as appropriate]
+    F2["Disclose AI involvement as appropriate"]
     F --> F1
     F --> F2
+
 ```
 
 
