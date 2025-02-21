@@ -22,21 +22,3 @@
   - **Maintaining Your Voice:** In a landscape of heavy AI use, the authentic human touch—even if imperfect—can stand out. Embrace iterative refinement and use human review to keep your unique perspective intact.
 
 
-# Flowchart 
-| Phase | Primary Tasks | Implementation Details |
-|-------|---------------|----------------------|
-| **1. Define Audience & Purpose** | • Identify who you're writing for and why | • Consider audience needs and expertise level<br>• Define clear communication goals |
-| | • Establish context for tone & style | • Align content with audience expectations<br>• Set appropriate formality level |
-| **2. Set AI Guidelines & Personality Scripts** | • Create specific AI agent instructions | • Define role and expertise level<br>• Set interaction parameters |
-| | • Establish AI contribution boundaries | • Ensure AI complements your work<br>• Maintain authentic voice |
-| **3. Research & Organize** | • Leverage multiple research tools | • Combine Google & Perplexity AI<br>• Cross-reference information |
-| | • Create flexible content repository | • Organize in NotebookLLM/Obsidian<br>• Maintain searchable structure |
-| **4. Draft & Iterate** | • Create structured outline | • Develop key points<br>• Plan content flow |
-| | • Initial draft (80% AI/20% human) | • Focus on getting ideas down<br>• Maintain consistent structure |
-| | • Refine to final (20% AI/80% human) | • Enhance personal voice<br>• Deep editing & restructuring |
-| **5. Feedback & Human Oversight** | • Use AI detection tools | • Apply content summarizers<br>• Check for consistency |
-| | • Incorporate peer review | • Evaluate coherence & bias<br>• Verify accuracy |
-| **6. Finalize & Disclose AI Use** | • Polish for personal voice | • Apply critical judgment<br>• Ensure natural flow |
-| | • Evaluate disclosure needs | • Consider content risk<br>• Match audience expectations |
-
-
